@@ -4,7 +4,7 @@ encontrado = False
 
 while encontrado == False:
 
-    intento = input("Introduzca numero entre 1 y 99 incluidos: ")
+    intento = input("Introduzca numero entre 0 y 99 incluidos: ")
     intento = int(intento)
 
     if intento < numero:
